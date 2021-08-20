@@ -6,6 +6,9 @@ Here something about me:
 - 🌱 I work with Java, Angular, React and sometimes, .Net.
 - 💜 I love to work with React and Typescript, but like challenges in .Net and NodeJS too.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavortius)](https://github.com/mavortius/github-readme-stats)
+
+
 
 #### Follow me on my social networks:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mavortius)](https://github.com/mavortius)
